@@ -7,4 +7,8 @@
     <RootNamespace>entity_framework_crud_operation</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+  </ItemGroup>
+
 </Project>
